@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9685f3ba.css",
-    "main.js": "/static/js/main.cd1c4992.js",
+    "main.css": "/static/css/main.0f60c9d1.css",
+    "main.js": "/static/js/main.f264744c.js",
     "static/media/icon-keypad.svg": "/static/media/icon-keypad.0e3cb5dbceddd056276e11bd3e12a0db.svg",
     "index.html": "/index.html",
     "static/media/icon-list.svg": "/static/media/icon-list.192f061edd39183525b41062a6e2b37e.svg",
@@ -13,11 +13,11 @@
     "static/media/icon-card.svg": "/static/media/icon-card.18fe25c1ca5589d7e508ea699b870185.svg",
     "static/media/icon-more.svg": "/static/media/icon-more.1e394f9df6497f7a86d1a1046aecbe2d.svg",
     "static/media/icon-reader.svg": "/static/media/icon-reader.76d6263592a87f19e16a96d144471c6c.svg",
-    "main.9685f3ba.css.map": "/static/css/main.9685f3ba.css.map",
-    "main.cd1c4992.js.map": "/static/js/main.cd1c4992.js.map"
+    "main.0f60c9d1.css.map": "/static/css/main.0f60c9d1.css.map",
+    "main.f264744c.js.map": "/static/js/main.f264744c.js.map"
   },
   "entrypoints": [
-    "static/css/main.9685f3ba.css",
-    "static/js/main.cd1c4992.js"
+    "static/css/main.0f60c9d1.css",
+    "static/js/main.f264744c.js"
   ]
 }
